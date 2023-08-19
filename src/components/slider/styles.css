@@ -1,0 +1,36 @@
+.carousel {
+  width: 100vw;
+  position: absolute;
+  margin: 0 auto;
+
+  .slider-text {
+    position: absolute;
+    user-select: none;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #384158;
+    background-color: rgba(255, 204, 51, 0.9);
+    padding: 4px 12px;
+  }
+
+  .slider-text-1 {
+    top: 100px;
+    left: 80px;
+  }
+
+  .slider-text-2 {
+    top: 200px;
+    right: 300px;
+  }
+
+  .slider-text-3 {
+    top: 100px;
+    right: 200px;
+  }
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+}
