@@ -2,9 +2,9 @@ import React from 'react';
 import './styles.css';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
-import SliderOne from './../../assets/images/slider1.jpg';
-import SliderTwo from './../../assets/images/slider2.jpg';
-import SliderThree from './../../assets/images/slider3.jpg';
+import SliderOne from './../../assets/images/slider1.webp';
+import SliderTwo from './../../assets/images/slider2.webp';
+import SliderThree from './../../assets/images/slider3.webp';
 
 const Slider = () => {
   return (
